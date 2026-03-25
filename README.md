@@ -112,14 +112,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- 🎯 Promoted from **Full Stack Developer Intern → Junior Full Stack Developer** at Exotrac LLC  
-- 🛠️ Built multiple production-level full-stack systems  
-- 🚀 Hands-on experience with real-world scalable applications  
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced Backend Architecture  
@@ -135,12 +127,6 @@
 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sharon-kadariya-9009851b5)  
 🐙 GitHub: [GitHub](https://github.com/GitSharon3)  
 🌐 Portfolio: https://www.sharonkadariya.com.np  
-
----
-
-## ✨ Fun Fact
-
-> “Consistency beats talent when talent doesn’t show up.”
 
 ---
 

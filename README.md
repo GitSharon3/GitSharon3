@@ -68,6 +68,11 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GitSharon3&theme=radical)
 
 ---
+## 📊 Activity Graph
+
+![Sharon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GitSharon3&theme=react-dark&hide_border=true)
+
+---
 
 ## 📂 Featured Projects
 

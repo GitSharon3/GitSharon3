@@ -8,6 +8,7 @@
 ---
 
 💻 **Full Stack Developer**
+
 🚀 Building scalable web applications & modern digital experiences  
 🌱 Always learning and improving  
 

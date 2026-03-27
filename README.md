@@ -73,13 +73,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-[![Yard Management System](https://github-readme-stats.vercel.app/api/pin/?username=GitSharon3&repo=YardManagementSystem&theme=radical)](https://github.com/GitSharon3/YardManagementSystem)
-[![BiruwaSmart](https://github-readme-stats.vercel.app/api/pin/?username=GitSharon3&repo=BiruwaSmart&theme=radical)](https://github.com/GitSharon3/BiruwaSmart)
-[![Aurora Glasses](https://github-readme-stats.vercel.app/api/pin/?username=GitSharon3&repo=AuroraGlasses&theme=radical)](https://github.com/GitSharon3/AuroraGlasses)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=GitSharon3&repo=Portfolio&theme=radical)](https://github.com/GitSharon3/Portfolio)  
-
 ## 📫 Connect With Me
 
 📧 Email: [sharondotkadariyaa@gmail.com](mailto:sharondotkadariyaa@gmail.com)  
